@@ -1,3 +1,5 @@
+const playBtn = document.getElementById('play-btn');
+
 let wins = 0;
 let ties = 0;
 let losses = 0;
@@ -5,7 +7,6 @@ let losses = 0;
 const choices = ['p', 'r', 's'];
 
 function playGame () {
-
     const playerChoice = window.prompt('Please, write R (Rock), P (Paper), or S (Scissors).');
 
     const index = Math.floor(Math.random() * choices.length);
@@ -32,6 +33,8 @@ function playGame () {
     if (playAgain) {
         playGame();
     }
+
+    window.alert(`Score stats: \nWins: ${wins} \nLosses: ${losses} \nTies: ${ties}`);
 
 };
 
