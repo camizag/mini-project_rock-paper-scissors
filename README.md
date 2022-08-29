@@ -1,47 +1,59 @@
-# Unit 03 Mini-Project: Rock, Paper, Scissors
+# Mini-Project: Rock, Paper, Scissors
 
-In this activity, you will work with a group to build a game using only JavaScript.
+This is Unit 3's Mini-Project: A Rock, Paper, Scissors game. 
 
-## Instructions
+## How To Play The Game
+----
+First, you will be presented with a prompt where you can choose what you want to play.
 
-The completed application should meet the following criteria:
+![Game prompt screenshot](./assets/imgs/game-prompt.png)
 
-* As a user, I want to play Rock, Paper, Scissors against an automated opponent.
+Then an alert will let you know what the computer chose.
 
-* As a user, I can enter R, P, or S to signify my choice of rock, paper, or scissors.
+![Game prompt screenshot](./assets/imgs/computer-choice.png)
 
-* As a user, I expect the computer to choose R, P, or S in return.
+And then the result of the game.
 
-* As a user, I want the option to play again whether I win or lose.
+![Game prompt screenshot](./assets/imgs/game-result.png)
 
-* As a user, I want to see my total wins, ties, and losses after each round.
+If you are done playing, an alert will appear with the results of every game. 
 
-### Specifications
+![Game prompt screenshot](./assets/imgs/game-stats.png)
 
-* Must use the `alert()`, `confirm()`, and `prompt()` methods to collect user input and display information to the user.
+## Technologies Used
+-----
 
-* The computer's selection must be random to ensure a fair game.
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-## 💡 Notes
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-Refer to the documentation:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-* [MDN Web Docs on window.alert()](https://developer.mozilla.org/en-US/docs/Web/API/Window/alert)
+## License 
+------
 
-* [MDN Web Docs on window.confirm()](https://developer.mozilla.org/en-US/docs/Web/API/Window/confirm)
+[![GitHub license](https://badgen.net/github/license/Naereen/Strapdown.js)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
 
-* [MDN Web Docs on window.prompt()](https://developer.mozilla.org/en-US/docs/Web/API/Window/prompt)
+~~~
+MIT License
 
-* [MDN Web Docs on Math](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math)
+Copyright (c) [year] [fullname]
 
-## 🏆 Bonus
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-If you have completed this activity, work through the following challenge with your group to further your knowledge:
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-* How can you customize the appearance of the `alert()`, `confirm()`, and `prompt()` dialog boxes?
-
-Use [Google](https://www.google.com) or another search engine to research this.
-
----
-
-© 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+~~~
