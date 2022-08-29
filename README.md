@@ -3,7 +3,6 @@
 This is Unit 3's Mini-Project: A Rock, Paper, Scissors game. 
 
 ## How To Play The Game
-----
 First, you will be presented with a prompt where you can choose what you want to play.
 
 ![Game prompt screenshot](./assets/imgs/game-prompt.png)
@@ -21,7 +20,6 @@ If you are done playing, an alert will appear with the results of every game.
 ![Game prompt screenshot](./assets/imgs/game-stats.png)
 
 ## Technologies Used
------
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
@@ -30,7 +28,6 @@ If you are done playing, an alert will appear with the results of every game.
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ## License 
-------
 
 [![GitHub license](https://badgen.net/github/license/Naereen/Strapdown.js)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
 
