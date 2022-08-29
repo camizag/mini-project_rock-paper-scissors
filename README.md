@@ -2,6 +2,12 @@
 
 This is Unit 3's Mini-Project: A Rock, Paper, Scissors game. 
 
+
+You can try it out here:
+https://camizag.github.io/mini-project_rock-paper-scissors/
+
+[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://shields.io/)
+
 ## How To Play The Game
 First, you will be presented with a prompt where you can choose what you want to play.
 
